@@ -1,0 +1,4 @@
+{
+    "verilog.formatting.systemVerilog.formatter": "verible-verilog-format",
+    "verilog.formatting.veribleVerilogFormatter.arguments": "--port_declarations_alignment flush-left"
+}

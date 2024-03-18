@@ -2,9 +2,9 @@
 
 module Circuit (
     output var logic b,
-    input var  logic clk,
-    input var  logic enable,
-    input var  logic a
+    input var logic clk,
+    input var logic enable,
+    input var logic a
 );
   always_ff @(posedge clk)
     if (enable) b <= a;
