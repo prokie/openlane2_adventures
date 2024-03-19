@@ -1,6 +1,6 @@
 {
   "DESIGN_NAME": "Circuit",
-  "VERILOG_FILES": ["dir::circuit.sv"],
+  "VERILOG_FILES": ["dir::circuit.v"],
   "CLOCK_PERIOD": 100,
   "CLOCK_PORT": "clk"
 }
